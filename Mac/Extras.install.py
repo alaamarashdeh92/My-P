@@ -3,6 +3,7 @@ directories (CVS, backup files, pyc files, etc)"""
 
 import sys
 import os
+import Math
 import shutil
 
 verbose = 1
